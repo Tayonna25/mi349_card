@@ -11,6 +11,10 @@ img{
 .card {
     background-color: #f3f3f3;
     margin: 0 auto;
-    width: 400px;
+    width: 600px;
     text-align: center;
+}
+
+.card .avatar {
+    width: 100px;
 }
